@@ -4,7 +4,7 @@
 
 #Main learning points
 #How x = 1 is different from x= 1 in scripting
-#function {1..100} is not available in /bin/sh but available in /bin/sh
+#function {1..100} is not available in /bin/sh but available in /bin/bash
 #if [<space>case<space>]
 
 
