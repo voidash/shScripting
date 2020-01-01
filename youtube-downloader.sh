@@ -16,7 +16,7 @@ DIR="/media/$USER/New Volume1"
 FILENAME="video"
 if [ $2 ]
 then
-        FILENAME="mp3"
+        FILENAME=$2
 fi
 case $FILENAME in
         video)
