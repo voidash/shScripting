@@ -1,2 +1,2 @@
-# bashScripting
-Collection of bash scripts that i find useful as i learn
+# shScripting
+Collection of sh scripts that i find useful as i learn
